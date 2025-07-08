@@ -5,8 +5,6 @@ AutoConfigGen is a Python + Streamlit-powered tool designed to simplify the gene
 Supports multiple formats: `.ini`, `.json`, `.yaml`  
 Includes file preview, validation checks, and download functionality.
 
----
-
 ## 📌 Features
 
 - ✅ Generate config files dynamically for any environment
@@ -16,25 +14,8 @@ Includes file preview, validation checks, and download functionality.
 - 📥 Download any config file with one click
 - 🌐 Built with a user-friendly Streamlit GUI
 
----
-
-## 🖼️ Screenshots
-
-> _Add screenshots of the UI (optional)_
-
----
-
-## 🚀 Getting Started
-
-### 🔧 Prerequisites
-
-Make sure you have:
-- Python 3.8+
-- pip installed
-
 ### 📦 Installation
 
-```bash
 git clone https://github.com/yourusername/AutoConfigGen.git
 cd AutoConfigGen
 pip install -r requirements.txt
